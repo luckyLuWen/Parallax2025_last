@@ -1,0 +1,26 @@
+# Visual Studio
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.aps
+*.pch
+*.cache
+*.VC.db
+*.log
+*.tlog
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.VC.opendb
+
+# binary file
+*.exe
+*.dll
+*.lib
+*.ilk
+*.pdb
+*.ipch
+*.idb
+*.exp
+*.bsc
