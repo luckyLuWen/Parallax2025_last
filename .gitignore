@@ -16,8 +16,8 @@
 
 # binary file
 *.exe
-*.dll
-*.lib
+#*.dll
+#*.lib
 *.ilk
 *.pdb
 *.ipch
