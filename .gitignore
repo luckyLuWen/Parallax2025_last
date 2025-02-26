@@ -24,4 +24,9 @@
 *.idb
 *.exp
 *.bsc
-/msvc/SBAdemo/.vs/SBAdemo/v16
+/msvc/SBAdemo/.vs/SBAdemo/
+/msvc/SBAdemo/.vs/demo/
+/msvc/PBAdemo/.vs/demo/
+/msvc/LCRPdemo/.vs/LCRPdemo/
+/msvc/LCRPdemo/.vs/demo/
+/msvc/LCRPdemo/.vs/SBAdemo/
