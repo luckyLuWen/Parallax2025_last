@@ -1,4 +1,9 @@
 # Visual Studio
+
+*.iobj
+*.ipdb
+*.obj
+
 #[Bb]in/
 [Oo]bj/
 *.user
@@ -25,13 +30,15 @@
 *.exp
 *.bsc
 
-*.iobj
-*.ipdb
-*.obj
-
 /msvc/SBAdemo/.vs/SBAdemo/
 /msvc/SBAdemo/.vs/demo/
+/msvc/SBAdemo/release/
+/msvc/SBAdemo/debug/
 /msvc/PBAdemo/.vs/demo/
+/msvc/PBAdemo/release
+/msvc/PBAdemo/debug/
 /msvc/LCRPdemo/.vs/LCRPdemo/
 /msvc/LCRPdemo/.vs/demo/
 /msvc/LCRPdemo/.vs/SBAdemo/
+/msvc/LCRPdemo/release/
+/msvc/LCRPdemo/debug/
