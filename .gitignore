@@ -24,6 +24,11 @@
 *.idb
 *.exp
 *.bsc
+
+*.iobj
+*.ipdb
+*.obj
+
 /msvc/SBAdemo/.vs/SBAdemo/
 /msvc/SBAdemo/.vs/demo/
 /msvc/PBAdemo/.vs/demo/
