@@ -13,6 +13,7 @@ using namespace std;
 #pragma  comment( lib, "../../bin/libcolamd.lib")
 #pragma  comment( lib, "../../bin/libmetis_CHOLMOD.lib")
 #pragma  comment( lib, "../../bin/libgoto2.lib")
+
 #pragma  comment( lib, "../../bin/SBA.lib")
 
 int _tmain(int argc, char* argv[] )
@@ -23,6 +24,7 @@ int _tmain(int argc, char* argv[] )
 	char* szFea = "C:/txtdata/Toronto/Feature13.txt";
 	char* szCalib = "C:/txtdata/Toronto/cal13.txt";
 	char* szXYZ = "C:/txtdata/Toronto/xyz_Maxdw.txt";
+
 	//char* szXYZ = NULL;
 	char* szReport = "C:/txtdata/Toronto/report.txt";
 	char* szPose = "C:/txtdata/Toronto/FinalPose.txt";

@@ -49,9 +49,11 @@ int _tmain(int argc, char* argv[] )
 	char* szFea = "C:/txtdata/Toronto/Feature13.txt";
 	char* szCalib = "C:/txtdata/Toronto/cal13.txt";
 	char* szXYZ = "C:/txtdata/Toronto/xyz_Maxdw.txt";
+
 	//char* szXYZ = NULL;
 	char* szReport = "C:/txtdata/Toronto/report.txt";
 	char* szPose = "C:/txtdata/Toronto/FinalPose.txt";
+
 	char* sz3D = "C:/txtdata/Toronto/Final3D.txt";
 	bool bLM = true;   //true is Levenberg-Marquardt
 	pBA->pba_run(false, bLM, 100, szCam, szFea, szXYZ, szCalib, szReport, szPose, sz3D);
